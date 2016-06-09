@@ -1,10 +1,49 @@
-.wrapper{
-	background-color: #ddd;
-	/* Just a test to make sure link is working */
+/*
+  =====================================
+  Navigation Pane
+  =====================================
+*/
+.navbar {
+	background-color: #fff;
+	height: 70px;
+	margin: 0 0 10px 0;
+	border-style: none;
 }
 
+.navbar-brand {
+	margin: 0;
+	padding: 0;
+}
+
+#logo {
+	height: 80px;
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	padding-top: 15px;
+	padding-bottom: auto;
+}
+
+/*
+  =====================================
+  General Custom Styles
+  =====================================
+*/
+#bigContainer {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #333;
+}
+
+/*
+  =====================================
+  Map
+  =====================================
+*/
 #map {
-	width: 900px;
-	height: 700px;
-	background-color: #333333;
+	width: 600px;
+	height: 400px;
+	background-color: #333;
 }
