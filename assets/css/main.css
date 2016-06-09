@@ -2,3 +2,9 @@
 	background-color: #ddd;
 	/* Just a test to make sure link is working */
 }
+
+#map {
+	width: 900px;
+	height: 700px;
+	background-color: #333333;
+}
